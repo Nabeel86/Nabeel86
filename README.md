@@ -26,4 +26,11 @@ Tools & Platforms: Git, GitHub
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmed-nabeel-8aa139159/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Nabeel86)
 
+![Ahmed Nabeel GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeel86&show_icons=true&theme=dark)
+
+ 
+ 
+
+
+
 
